@@ -1,3 +1,4 @@
 dist/*
 !dist/manifest.json
+!dist/icons
 node_modules/
