@@ -1,5 +1,5 @@
 ﻿# TheStar Fix
-**A chrome extension to fix a bug in the star website which prevents you from reading articles.**
+**A chrome extension to fix a "bug" in the star website which prevents you from reading articles.**
 
 ## Installation & Compilation
 ```shell
