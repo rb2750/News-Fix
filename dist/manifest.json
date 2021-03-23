@@ -1,8 +1,8 @@
 {
-    "name": "TheStar Fix",
+    "name": "NewsSitesFix",
     "version": "0.0.1",
     "manifest_version": 2,
-    "description": "Fixes a bug that prevents you from reading star articles.",
+    "description": "Fixes a bug that prevents you from reading most news site articles.",
     "homepage_url": "https://www.thestar.co.uk/",
     "icons": {
       "16": "icons/icon16.png",
@@ -10,7 +10,7 @@
       "128": "icons/icon128.png"
     },
     "permissions": [
-      "https://www.thestar.co.uk/*"
+      "activeTab"
     ],
     "content_security_policy": "default-src 'self';",
     "content_scripts": [
